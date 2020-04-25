@@ -1,0 +1,2 @@
+rootProject.name='AndroidBareev'
+include ':app'
